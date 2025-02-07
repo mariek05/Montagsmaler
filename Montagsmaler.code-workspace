@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../SQL Server Management Studio/Kaffeeabrechnung"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Montagsmaler"
+	}
+}
